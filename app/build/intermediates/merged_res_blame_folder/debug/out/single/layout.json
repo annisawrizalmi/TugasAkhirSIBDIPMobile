@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\annisa wr\\.gradle\\daemon\\7.4\\com.annisawr.sibdip.app-mergeDebugResources-29:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\annisa wr\\.gradle\\daemon\\7.4\\com.annisawr.sibdip.app-main-32:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\annisa wr\\.gradle\\daemon\\7.4\\com.annisawr.sibdip.app-mergeDebugResources-29:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\annisa wr\\.gradle\\daemon\\7.4\\com.annisawr.sibdip.app-main-32:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\annisa wr\\.gradle\\daemon\\7.4\\com.annisawr.sibdip.app-mergeDebugResources-29:\\layout\\activity_super_admin_dash.xml",
+        "source": "C:\\Users\\annisa wr\\.gradle\\daemon\\7.4\\com.annisawr.sibdip.app-main-32:\\layout\\activity_super_admin_dash.xml"
+    },
+    {
+        "merged": "com.annisawr.sibdip.app-mergeDebugResources-29:/layout/activity_super_admin_dash.xml",
+        "source": "com.annisawr.sibdip.app-main-32:/layout/activity_super_admin_dash.xml"
+    }
+]

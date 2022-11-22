@@ -49,4 +49,9 @@ class SuperAdmin_DashActivity : AppCompatActivity() {
         return super.onOptionsItemSelected(item)
     }
 
+//    private fun diklat()
+//    {
+//
+//    }
+
 } /*batas class*/
